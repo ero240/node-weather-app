@@ -1,3 +1,6 @@
+console.log("Loaded page");
+
+
 var btn = document.getElementById('btn');
 var output = document.getElementById("forecastOutput")
 var info = [];
