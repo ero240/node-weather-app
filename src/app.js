@@ -30,8 +30,8 @@ app.get('', (req, res) => {
 
 app.get('/about', (req, res) => {
     res.render('about', {
-        title: "About Big Booty Milf Lisa",
-        name: 'Lisa Lopez'
+        title: "Beautiful Sunrise",
+        name: 'Weather'
     })
 })
 
